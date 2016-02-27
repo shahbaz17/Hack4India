@@ -1,6 +1,6 @@
 {
-  "name": "Name",
-  "description": "Total security App",
+  "name": "GovBOT",
+  "description": "",
   "launch_path": "/index.html",
   "icons": {
     "16": "/icons/icon16x16.png",
